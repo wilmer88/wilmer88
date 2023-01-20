@@ -32,7 +32,7 @@
 
 
   > My money maker
- - 💬 Ask me about ...
+  💬 Ask me about ...
 
  - [buddyboy](https://github.com/wilmer88/buddyboy/)
    buddyboy is code name for fight predictor
