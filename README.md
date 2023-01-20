@@ -1,10 +1,9 @@
 ### Welcome, 👋 down bellow is where everything you come here to see
- > My money maker
+
  <summary>buddyboy is code name for fight predictor.</summary> 
+ > My money maker
+
  [buddyboy](https://github.com/wilmer88/buddyboy/)
-
-
-
 ---
  > My why to invest in Virtual-Stand
  
