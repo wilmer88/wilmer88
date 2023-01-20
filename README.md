@@ -3,7 +3,7 @@
 ### My Knowledge of Object Oriented Language Ranking 
 
 <details open>
-<summary>Object orientet languages that I'm competent with.</summary> 
+<summary>Object oriented languages that I'm competent with.</summary> 
 
 | Rank | OO Languages  |
 |-----:|---------------|
