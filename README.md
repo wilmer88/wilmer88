@@ -27,7 +27,7 @@
 |     3|    PHP        |
 
 </details>
-----
+
 
  > My money maker
  >  [buddyboy](https://github.com/wilmer88/buddyboy/)
