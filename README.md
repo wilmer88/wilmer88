@@ -18,7 +18,7 @@
 ### My knowledge of scripting language ranking 
 
 <details open>
-<summary>Object orientet languages that I'm competent with.</summary> 
+<summary>Scripting languages that I'm competent with.</summary> 
 
 | Rank | Scripting Languages  |
 |-----:|---------------|
