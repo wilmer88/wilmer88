@@ -1,21 +1,5 @@
 ### Welcome, 👋 down bellow is where everything you come here to see
 
- [buddyboy](https://github.com/wilmer88/buddyboy/)
- > My money maker
-   buddyboy is code name for fight predictor
-
-
----
- > Why to invest in Virtual-Stand
- 
- [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
- 
----
-🌱 I’m currently learning 
-- java object oriented design
-- C# design patterns
-
-
 ---
 ### My knowledge of Object Oriented language ranking 
 
@@ -43,6 +27,23 @@
 |     3|    PHP        |
 
 </details>
+----
+
+ > My money maker
+ >  [buddyboy](https://github.com/wilmer88/buddyboy/)
+   buddyboy is code name for fight predictor
+
+
+---
+ > Why to invest in Virtual-Stand
+ 
+ [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
+ 
+---
+🌱 I’m currently learning 
+- java object oriented design
+- C# design patterns
+
 
 
 
