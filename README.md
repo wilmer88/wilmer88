@@ -1,7 +1,6 @@
-
-
----
-### My knowledge of Object Oriented language ranking 
+# Welcom to,
+## Wilmer Rivera Git Hub Page
+### My Knowledge of Object Oriented Language Ranking 
 
 <details open>
 <summary>Object orientet languages that I'm competent with.</summary> 
@@ -15,7 +14,7 @@
 </details>
 
 
-### My knowledge of scripting language ranking 
+### My Knowledge of Scripting Language Ranking 
 
 <details open>
 <summary>Scripting languages that I'm competent with.</summary> 
