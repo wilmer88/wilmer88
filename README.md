@@ -40,7 +40,7 @@
 ---
  > Why to invest in Virtual-Stand
  
- [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
+ [[Virtual-Stand](https://github.com/wilmer88/taco-stand/)](https://github.com/wilmer88/buddyboy/releases)
  
 ---
 🌱 I’m currently learning 
