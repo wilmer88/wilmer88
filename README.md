@@ -6,7 +6,7 @@
 
 
 ---
- > My why to invest in Virtual-Stand
+ > Why to invest in Virtual-Stand
  
  [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
  
@@ -17,7 +17,7 @@ C# design patterns
 
 
 ---
-> My knowledge of Object Oriented language ranking 
+### My knowledge of Object Oriented language ranking 
 
 <details open>
 <summary>Object orientet languages that I'm competent with.</summary> 
