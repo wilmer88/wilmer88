@@ -1,7 +1,5 @@
 ### Welcome, 👋 down bellow is where everything you come here to see
  > My money maker
-
-- 🔭 I’m currently working on 
  <summary>buddyboy is code name for fight predictor.</summary> 
  [buddyboy](https://github.com/wilmer88/buddyboy/)
 
@@ -9,14 +7,13 @@
 
 ---
  > My why to invest in Virtual-Stand
-
-- 💬 Ask me about 
  
  [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
  
 ---
 🌱 I’m currently learning 
 java object oriented design
+C# design patterns
 
 
 ---
