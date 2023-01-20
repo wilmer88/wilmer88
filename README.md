@@ -27,9 +27,9 @@
 |     3|    PHP        |
 
 </details>
-
-
  > My money maker
+- 💬 Ask me about ...
+
  >  [buddyboy](https://github.com/wilmer88/buddyboy/)
    buddyboy is code name for fight predictor
 
