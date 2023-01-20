@@ -1,4 +1,4 @@
-### Welcome, 👋 down bellow is where everything you come here to see
+## Welcome, 👋 down bellow is where everything you come here to see
 
 ---
 ### My knowledge of Object Oriented language ranking 
@@ -15,7 +15,7 @@
 </details>
 
 
-> My knowledge of scripting language ranking 
+### My knowledge of scripting language ranking 
 
 <details open>
 <summary>Object orientet languages that I'm competent with.</summary> 
@@ -32,7 +32,7 @@
   > My money maker
  - 💬 Ask me about ...
 
-   [buddyboy](https://github.com/wilmer88/buddyboy/)
+ - [buddyboy](https://github.com/wilmer88/buddyboy/)
    buddyboy is code name for fight predictor
 
 
