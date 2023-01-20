@@ -28,10 +28,11 @@
 
 </details>
 
-- 💬 Ask me about ...
--  > My money maker
 
- >  [buddyboy](https://github.com/wilmer88/buddyboy/)
+  > My money maker
+ - 💬 Ask me about ...
+
+   [buddyboy](https://github.com/wilmer88/buddyboy/)
    buddyboy is code name for fight predictor
 
 
