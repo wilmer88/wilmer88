@@ -1,4 +1,4 @@
-### Welcome, 👋 
+
 
 ---
 ### My knowledge of Object Oriented language ranking 
