@@ -2,7 +2,7 @@
 
  [buddyboy](https://github.com/wilmer88/buddyboy/)
  > My money maker
- -  buddyboy is code name for fight predictor
+   buddyboy is code name for fight predictor
 
 
 ---
@@ -12,8 +12,8 @@
  
 ---
 🌱 I’m currently learning 
-java object oriented design
-C# design patterns
+- java object oriented design
+- C# design patterns
 
 
 ---
