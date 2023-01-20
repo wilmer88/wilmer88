@@ -1,21 +1,25 @@
 ### Welcome, 👋 down bellow is where everything you come here to see
+ > My money maker
+
 - 🔭 I’m currently working on 
-- [buddyboy](https://github.com/wilmer88/buddyboy/)
-<summary>buddyboy is code name for fight predictor.</summary> 
-- 
+ <summary>buddyboy is code name for fight predictor.</summary> 
+ [buddyboy](https://github.com/wilmer88/buddyboy/)
+
+
 
 ---
+ > My why to invest in Virtual-Stand
+
 - 💬 Ask me about 
-- > My why to invest in Virtual-Stand
-- [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
-- 
+ 
+ [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
+ 
 github.com/wilmer88/taco-stand
 ---
 🌱 I’m currently learning 
 java object oriented design
 
 
-- 📫 How to reach me: ...
 ---
 > My knowledge of Object Oriented language ranking 
 
