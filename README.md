@@ -1,6 +1,6 @@
 ### Welcome, 👋 down bellow is where everything you come here to see
 
- <summary>buddyboy is code name for fight predictor.</summary> 
+ buddyboy is code name for fight predictor
  > My money maker
 
  [buddyboy](https://github.com/wilmer88/buddyboy/)
