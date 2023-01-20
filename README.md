@@ -1,4 +1,4 @@
-## Welcome, 👋 down bellow is where everything you come here to see
+### Welcome, 👋 
 
 ---
 ### My knowledge of Object Oriented language ranking 
