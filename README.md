@@ -1,4 +1,4 @@
-# Welcom to,
+
 ## Wilmer Rivera Git Hub Page
 ### My Knowledge of Object Oriented Language Ranking 
 
