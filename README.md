@@ -14,7 +14,6 @@
  
  [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
  
-github.com/wilmer88/taco-stand
 ---
 🌱 I’m currently learning 
 java object oriented design
