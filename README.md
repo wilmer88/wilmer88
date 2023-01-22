@@ -38,9 +38,7 @@
 
 
 ---
- > Why to invest in Virtual-Stand
- - (https://github.com/wilmer88/buddyboy/releases)
- 
+ > Why to invest in Virtual-Stand 
  - [Virtual-Stand](https://github.com/wilmer88/taco-stand/)
  
 ---
