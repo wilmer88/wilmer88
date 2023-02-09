@@ -17,13 +17,14 @@
 ### My Knowledge of Scripting Language Ranking 
 
 <details open>
-<summary>Scripting languages that I'm competent with.</summary> 
+<summary>Scripting/ server side languages that I'm competent with.</summary> 
 
 | Rank | Scripting Languages  |
 |-----:|---------------|
 |     1|    JavaScript |
 |     2|    Python     |
-|     3|    PHP        |
+|     3|    GO         |  
+|     4|    PHP        |
 
 </details>
 
@@ -43,6 +44,7 @@
  
 ---
 🌱 I’m currently learning 
+- Go
 - java object oriented design
 - C# design patterns
 
