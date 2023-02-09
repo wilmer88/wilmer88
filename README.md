@@ -14,7 +14,7 @@
 </details>
 
 
-### My Knowledge of Scripting Language Ranking 
+### My Knowledge of Scripting/ serverSide Language Ranking 
 
 <details open>
 <summary>Scripting/ server side languages that I'm competent with.</summary> 
